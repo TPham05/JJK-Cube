@@ -18,4 +18,7 @@ This project is inspired by the anime *Jujutsu Kaisen (JJK)* and demonstrates ra
 1. **Randomized Targets**: Each servo is assigned random target positions within a defined range.  
 2. **Smooth Transitions**: Servos move incrementally to their target positions for smooth and lifelike motion.  
 3. **Dynamic Timing**: Random delays and speeds are applied to make the movements less predictable.  
-4. **Continuous Operation**: The program loops indefinitely, creating a random motion effect.  
+4. **Continuous Operation**: The program loops indefinitely, creating a random motion effect.
+
+Demonstration can be seen in the link below:
+https://www.youtube.com/watch?v=qLS45CBvLUI
